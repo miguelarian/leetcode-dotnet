@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "..\FizzBuzz\FizzBuzz.csproj", "{3ABE79F7-6852-4E6B-89E6-2E754DB8ED50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{3ABE79F7-6852-4E6B-89E6-2E754DB8ED50}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzzTests", "..\FizzBuzzTests\FizzBuzzTests.csproj", "{600B2B84-4B77-4AD4-882D-3074D6C9B618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.csproj", "{600B2B84-4B77-4AD4-882D-3074D6C9B618}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeNode", "..\BinaryTreeNode\BinaryTreeNode.csproj", "{6BB0C8D6-A675-4CB7-B174-20AF9D849B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeNode", "BinaryTreeNode\BinaryTreeNode.csproj", "{6BB0C8D6-A675-4CB7-B174-20AF9D849B85}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LastWordLength", "LastWordLength\LastWordLength.csproj", "{D65E3F9A-30B2-4AEB-A3EB-E826949469B2}"
 EndProject
