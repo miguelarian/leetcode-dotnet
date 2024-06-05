@@ -7,15 +7,6 @@
     {
         public static bool CanConstruct(string ransomNote, string magazine)
         {
-            if (string.IsNullOrEmpty(ransomNote))
-            {
-                return true;
-            }
-            if (string.IsNullOrEmpty(magazine)) 
-            {
-                return false;
-            }
-
             foreach (var letter in ransomNote)
             {
                 if (!magazine.Contains(letter))
@@ -27,7 +18,6 @@
                     magazine = magazine.Remove(magazine.IndexOf(letter), 1);
                 }
             }
-
             
             return true;
         }
