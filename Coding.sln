@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{3ABE79F7-6852-4E6B-89E6-2E754DB8ED50}"
 EndProject
@@ -15,11 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdMax", "ThirdMax\ThirdM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdMaxTests", "ThirdMaxTests\ThirdMaxTests.csproj", "{46CDDE49-5106-4590-A3A3-BAEA0F650EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{ABEA18DF-BDC0-4A8A-8BAB-383B7BC715BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{ABEA18DF-BDC0-4A8A-8BAB-383B7BC715BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{5F5717F8-467C-4466-9E18-01080C495C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{5F5717F8-467C-4466-9E18-01080C495C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTests", "LinkedListTests\LinkedListTests.csproj", "{0AAE55AC-7C4F-45CA-836F-41FA19A6FBB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListTests", "LinkedListTests\LinkedListTests.csproj", "{0AAE55AC-7C4F-45CA-836F-41FA19A6FBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{7DE647D1-7C5E-47E6-A18A-CEA872B1597B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNoteTests", "RansomNoteTests\RansomNoteTests.csproj", "{18FE5150-37B9-4B68-A94F-C9BE79A65D40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{0AAE55AC-7C4F-45CA-836F-41FA19A6FBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AAE55AC-7C4F-45CA-836F-41FA19A6FBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AAE55AC-7C4F-45CA-836F-41FA19A6FBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE647D1-7C5E-47E6-A18A-CEA872B1597B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE647D1-7C5E-47E6-A18A-CEA872B1597B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE647D1-7C5E-47E6-A18A-CEA872B1597B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE647D1-7C5E-47E6-A18A-CEA872B1597B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FE5150-37B9-4B68-A94F-C9BE79A65D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FE5150-37B9-4B68-A94F-C9BE79A65D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FE5150-37B9-4B68-A94F-C9BE79A65D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FE5150-37B9-4B68-A94F-C9BE79A65D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
